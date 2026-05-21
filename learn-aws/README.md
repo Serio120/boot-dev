@@ -1,6 +1,6 @@
-#  Learn Cloud Infrastructure With AWS
+#  Aprende infraestructura en la nube con AWS
 
-Welcome to "Learn Cloud Infrastructure with AWS"! In this course, you'll learn how "the cloud" actually works, from the servers that power your apps to the networking, storage, and identity systems that keep them reliable and secure. We'll use Amazon Web Services (AWS) to learn these fundamentals, because it's the world's most widely used cloud platform.
+¡Bienvenido a "Aprende Infraestructura Cloud con AWS"! En este curso, aprenderás cómo funciona realmente "la nube", desde los servidores que alimentan tus aplicaciones hasta los sistemas de red, almacenamiento e identidad que las mantienen fiables y seguras. Utilizaremos Amazon Web Services (AWS) para aprender estos fundamentos, porque es la plataforma en la nube más utilizada en el mundo.
 
 ## Learning Goals
 
