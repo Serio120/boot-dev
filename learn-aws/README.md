@@ -2,13 +2,11 @@
 
 ¡Bienvenido a "Aprende Infraestructura Cloud con AWS"! En este curso, aprenderás cómo funciona realmente "la nube", desde los servidores que alimentan tus aplicaciones hasta los sistemas de red, almacenamiento e identidad que las mantienen fiables y seguras. Utilizaremos Amazon Web Services (AWS) para aprender estos fundamentos, porque es la plataforma en la nube más utilizada en el mundo.
 
-## Learning Goals
+## Objetivos de aprendizaje
 
-Learn the fundamental concepts of cloud computing and how it differs from on-premises infrastructure.
-Understand the major offerings and products of the large cloud providers, with a focus on AWS.
-Gain hands-on experience deploying infrastructure in an AWS account and using the AWS CLI.
-for Windows Users
-If you try to complete this course without WSL 2 installed on Windows, you're gonna have a bad time.
+- Aprende los conceptos fundamentales de la computación en la nube y en qué se diferencia de la infraestructura local.
+- Comprende las principales ofertas y productos de los grandes proveedores de nube, con especial atención a AWS.
+- Adquiere experiencia práctica desplegando infraestructura en una cuenta de AWS y utilizando la interfaz de comando de AWS.
 
 Boot.dev CLI
 Throughout this course, you'll be using the Boot.dev CLI to run our tests (which are just CLI commands) against your local environment. Install it now if you don't have it already. All the instructions and troubleshooting info are on the GitHub page.
