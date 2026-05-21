@@ -44,3 +44,18 @@ Run the lesson command and confirm your terminal output.
 Copy the run command from the right panel and execute it in your terminal.
 Confirm the output includes young developer yells at cloud.
 Run and submit the CLI tests.
+
+<h2 align=center>********* POR INCLUIR EN SU LUGAR CORRESPONDIENTE *********</h2>
+
+## INSTALACIÓN
+
+```
+   109  curl -sS https://webi.sh/webi | sh; source ~/.config/envman/PATH.env
+  110  webi --version
+  111  go version
+  112  which goGet-Command go
+  113  bootdev --version
+  114  echo $PATH
+  115  go install github.com/bootdotdev/bootdev@latest
+  116  bootdev --version
+```
