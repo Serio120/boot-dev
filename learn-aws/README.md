@@ -1,3 +1,5 @@
+<h2 align=center>********* LABORATORIO DESBLOQUEADO *********</h2>
+
 #  Aprende infraestructura en la nube con AWS
 
 ¡Bienvenido a "Aprende Infraestructura Cloud con AWS"! En este curso, aprenderás cómo funciona realmente "la nube", desde los servidores que alimentan tus aplicaciones hasta los sistemas de red, almacenamiento e identidad que las mantienen fiables y seguras. Utilizaremos Amazon Web Services (AWS) para aprender estos fundamentos, porque es la plataforma en la nube más utilizada en el mundo.
@@ -11,6 +13,8 @@
 ## Boot.dev CLI
 
 A lo largo de este curso, usarás la Boot.dev CLI para ejecutar nuestras pruebas (que son solo comandos CLI) contra tu entorno local. Instálala ahora si no la tienes ya. Todas las instrucciones e información de solución de problemas están en la página de GitHub.
+
+<h2 align=center>********* POR COMPLETAR, TRADUCIR Y MAQUETAR ENLACES *********</h2>
 
 To verify your installation:
 
