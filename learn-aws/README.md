@@ -8,8 +8,9 @@
 - Comprende las principales ofertas y productos de los grandes proveedores de nube, con especial atención a AWS.
 - Adquiere experiencia práctica desplegando infraestructura en una cuenta de AWS y utilizando la interfaz de comando de AWS.
 
-Boot.dev CLI
-Throughout this course, you'll be using the Boot.dev CLI to run our tests (which are just CLI commands) against your local environment. Install it now if you don't have it already. All the instructions and troubleshooting info are on the GitHub page.
+## Boot.dev CLI
+
+A lo largo de este curso, usarás la Boot.dev CLI para ejecutar nuestras pruebas (que son solo comandos CLI) contra tu entorno local. Instálala ahora si no la tienes ya. Todas las instrucciones e información de solución de problemas están en la página de GitHub.
 
 To verify your installation:
 
