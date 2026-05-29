@@ -1,5 +1,6 @@
-Literales de plantilla
-En JavaScript, los literales de plantilla son una forma fantástica de interpolar valores dinámicos en una cadena. Son la versión de JavaScript de las cadenas f de Python. Por ejemplo:
+# Literales de plantilla
+
+En JavaScript, los [literales de plantilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) son una forma fantástica de interpolar valores dinámicos en una cadena. Son la versión de JavaScript de las cadenas f de Python. Por ejemplo:
 
 const shadeOfRed = 101;
 console.log(`The shade is ${shadeOfRed}`);
