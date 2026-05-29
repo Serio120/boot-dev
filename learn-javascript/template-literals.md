@@ -29,10 +29,12 @@ console.log(`I need ${item.toUpperCase()}`);
 ## Asignación
 Usando los literales de la plantilla y el formato de cadenas ilustrados arriba, crea una nueva variable y asigna la cadena:msg
 
+```plaintext
 Hi NAME, your open rate is OPENRATE percent
+```
 
-Sustituye por la variable .NAMEname
-Sustituye por la variable .OPENRATEopenRate
+- Sustituye por la variable .NAMEname
+- Sustituye por la variable .OPENRATEopenRate
 
 ## Solución
 
