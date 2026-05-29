@@ -33,8 +33,8 @@ Usando los literales de la plantilla y el formato de cadenas ilustrados arriba, 
 Hi NAME, your open rate is OPENRATE percent
 ```
 
-- Sustituye por la variable .NAMEname
-- Sustituye por la variable .OPENRATEopenRate
+- Sustituye por la variable `.NAMEname`
+- Sustituye por la variable `.OPENRATEopenRate`
 
 ## Solución
 
