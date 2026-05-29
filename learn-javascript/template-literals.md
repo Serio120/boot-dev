@@ -2,10 +2,11 @@
 
 En JavaScript, los [literales de plantilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) son una forma fantástica de interpolar valores dinámicos en una cadena. Son la versión de JavaScript de las cadenas f de Python. Por ejemplo:
 
+```javascript
 const shadeOfRed = 101;
 console.log(`The shade is ${shadeOfRed}`);
 // The shade is 101
-
+```
 Los literales plantilla deben comenzar y terminar con un backtick, y cualquier cosa dentro del recinto del corchete de signo de dólar se convierte automáticamente en una cadena.
 
 Lógica avanzada
