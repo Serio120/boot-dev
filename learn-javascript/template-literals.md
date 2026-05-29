@@ -31,3 +31,15 @@ Hi NAME, your open rate is OPENRATE percent
 
 Sustituye por la variable .NAMEname
 Sustituye por la variable .OPENRATEopenRate
+
+## Solución
+
+```javascript
+const name = "Saul Goodman";
+const openRate = 30.5;
+
+const msg = `Hi ${name}, your open rate is ${openRate} percent`;
+
+// don't touch below this line
+console.log(msg);
+```
